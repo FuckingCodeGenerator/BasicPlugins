@@ -1,0 +1,10 @@
+# パスワードミスによる自動BANまでの回数 (-1で無制限)
+wrong-password-count-to-ban: -1
+# パスワードの最低文字数
+minimum-password-length: 5
+# パスワードの最大文字数
+maximum-password-length: 16
+# パスワードミスによる自動BAN
+auto-login: true
+# 変更しないでください
+config-version: 1
